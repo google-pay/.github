@@ -1,4 +1,4 @@
-# Welcome to the Google Pay organization
+# 👋 Welcome to the Google Pay organization
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Google_Pay_Logo.svg/320px-Google_Pay_Logo.svg.png" height="50" alt="The Google Pay logo">
 
 The Google Pay API enables fast, simple checkout within your apps and websites, and gives you convenient access to hundreds of millions of cards saved to Google Accounts worldwide.
