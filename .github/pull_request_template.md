@@ -6,7 +6,6 @@
 > - Read [the contribution guidelines](CONTRIBUTING.md).
 > - Assign reviewers.
 > - If applicable, include a reference to related issues.
-> - If this is a new feature, create an issue and coordinate with other contributors to make sure the feature can be made available in all platforms supported.
 >
 > :warning: Delete this block before creating the pull request.
 
