@@ -10,11 +10,11 @@
 >
 > :warning: Delete this block before creating the pull request.
 
-**Describe the changes proposed**<br>
+**Describe the changes proposed**
 A clear and concise description of the changes included in this pull request.
 
-**Screenshots / Videos**<br>
+**Screenshots / Videos**
 If useful, include any screeshots or screencasts to better explain the change.
 
-**Additional context**<br>
+**Additional context**
 Add any other context about the change here.
